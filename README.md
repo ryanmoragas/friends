@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Friends
 
 **TODO: Add description**
@@ -19,3 +20,7 @@ Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_do
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/friends](https://hexdocs.pm/friends).
 
+=======
+# friends
+expo querying practice
+>>>>>>> f332ad0713eb8af0f16b67f8ff3d079e5d084bc8
